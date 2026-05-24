@@ -25,6 +25,6 @@ A personal finance management app designed for the privacy-conscious user.
 
 ### 📫 How to reach me:
 - **LinkedIn:** https://www.linkedin.com/in/manojkumarkrishnasamy/
-- **Portfolio:** https://github.com/inmksolutions/accrivo
+- **Portfolio:** [https://github.com/inmksolutions/accrivo](https://inmksolutions.github.io/accrivo/)
 
 *"Turning banking logic into beautiful, local-first code."*
