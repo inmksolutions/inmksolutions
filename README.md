@@ -18,7 +18,7 @@ A personal finance management app designed for the privacy-conscious user.
 ### 🛠️ Tech & Tools
 - **Framework:** Flutter (Dart)
 - **Database:** SQLite
-- **IDEs:** AntiGravity, Android Studio
+- **IDEs:** Android Studio, Visual Studio
 - **Process:** Agile/Scrum, Product Roadmap Design, Financial Compliance
 
 ---
